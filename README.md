@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para a disciplina de Análise e Desenvolvimento de
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/PI_Weslley_Luiz_Kampa.git
+    git clone https://github.com/agr3w/PI_Weslley_Luiz_Kampa.git
     cd PI_Weslley_Luiz_Kampa
     ```
 
