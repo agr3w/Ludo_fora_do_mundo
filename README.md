@@ -18,24 +18,6 @@ Este projeto foi desenvolvido para a disciplina de Análise e Desenvolvimento de
 - Compilador C (como GCC).
 - Sistema operacional Windows (devido ao uso de bibliotecas específicas como `windows.h`).
 
-## Como compilar e executar
-
-1. Clone este repositório:
-    ```sh
-    git clone https://github.com/agr3w/PI_Weslley_Luiz_Kampa.git
-    cd PI_Weslley_Luiz_Kampa
-    ```
-
-2. Compile o código:
-    ```sh
-    gcc -o jogo PI_weslley_luiz_kampa.c -lgdi32
-    ```
-
-3. Execute o jogo:
-    ```sh
-    ./jogo
-    ```
-
 ## Estrutura do Código
 
 - **Definições de Cores e Layout**: Variáveis para definir cores e layout da interface do terminal.
