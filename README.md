@@ -1,4 +1,4 @@
-# PI_Weslley_Luiz_Kampa
+# Ludo Fora Do Mundo
 
 Este repositório contém o código-fonte de um jogo de Ludo desenvolvido em C. O jogo suporta múltiplos jogadores e inclui funcionalidades de manipulação de texto no terminal.
 
