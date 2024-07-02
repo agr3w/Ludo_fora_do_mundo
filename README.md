@@ -1,6 +1,10 @@
 # PI_Weslley_Luiz_Kampa
 
-Este repositório contém o código-fonte de um jogo desenvolvido em C. O jogo suporta múltiplos jogadores e inclui funcionalidades de manipulação de texto no terminal.
+Este repositório contém o código-fonte de um jogo de Ludo desenvolvido em C. O jogo suporta múltiplos jogadores e inclui funcionalidades de manipulação de texto no terminal.
+
+## Sobre o Projeto
+
+Este projeto foi desenvolvido para a disciplina de Análise e Desenvolvimento de Sistemas (ADS) no primeiro semestre da UNIFACEAR Araucária, sob a orientação do professor Rodrigo Bevilacqua Marcondes.
 
 ## Funcionalidades
 
